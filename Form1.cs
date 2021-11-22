@@ -10,7 +10,7 @@ namespace WindowsFormsApp1
     public partial class Form1 : Form
     {
         List<string> dates = new List<string>();
-        string maks;
+        string MaxLohANast=yaLentayka;
         public Form1()
         {
             InitializeComponent();
